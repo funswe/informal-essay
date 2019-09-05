@@ -14,3 +14,10 @@ Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
 ```
 $ pacman -S archlinux-keyring 
 ```
+
+# win fonts
+```
+$ sudo mkfontscale
+$ sudo mkfontdir
+$ fc-cache
+```
