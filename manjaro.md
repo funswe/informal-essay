@@ -12,7 +12,7 @@ SigLevel = Optional TrustedOnly
 Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
 ```
 ```
-$ pacman -S archlinux-keyring 
+$ pacman -S archlinuxcn-keyring 
 ```
 
 # win fonts
