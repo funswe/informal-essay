@@ -1,3 +1,6 @@
+# 下载manjaro-deepin
+https://osdn.net/projects/manjaro-community/storage/deepin/18.0.2/
+
 # 设置国内的源
 ```
 $ sudo pacman-mirrors -i -c China -m rank //更新镜像排名
