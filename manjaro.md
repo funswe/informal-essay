@@ -24,3 +24,8 @@ $ sudo mkfontscale
 $ sudo mkfontdir
 $ fc-cache
 ```
+
+# 中文乱码
+```bash
+$ sudo pacman -S wqy-microhei
+```
